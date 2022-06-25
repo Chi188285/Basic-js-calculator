@@ -1,1 +1,1 @@
-Introduction to javascript,This a basic calculator
+Introduction to javascript,This is a basic js calculator
